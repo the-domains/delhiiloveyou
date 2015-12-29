@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Delhi, I Love You]]></title>
         <description><![CDATA[Delhi, I Love You]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/delhiiloveyou/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 16:21:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 18:40:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/delhiiloveyou/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#ADAYINDELHI]]></title>
+            <description><![CDATA[<article><h1>#ADAYINDELHI</h1><p>What if we looked at Delhi with new eyes? It's time to focus on what makes Delhi a city worth celebrating: its initiatives, its creativity, its history, its food, its stories, and its people. This video -A day in Delhi- is call to the citizens of Delhi to really feel their city,  to be proud of where they live, and to join theDelhi, I Love Youmovement. The video tries to capture the many souls that make up the city of Delhi, telling us their stories without saying a word.</p></article>]]></description>
+            <link>https://thegrid.ai/delhiiloveyou/4b233de6-fc4f-47a7-926d-6ff1e4329921/index.html</link>
+            <guid isPermaLink="false">4b233de6-fc4f-47a7-926d-6ff1e4329921</guid>
+            <pubDate>Tue, 29 Dec 2015 18:40:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d874ad-ce33-43fc-8de8-74484d75362d.jpg">]]></description>
-            <link>undefined4ce366e2-be05-44c9-a5c0-3e48bd2ed7a5/index.html</link>
+            <link>https://thegrid.ai/delhiiloveyou/4ce366e2-be05-44c9-a5c0-3e48bd2ed7a5/index.html</link>
             <guid isPermaLink="false">4ce366e2-be05-44c9-a5c0-3e48bd2ed7a5</guid>
             <pubDate>Tue, 29 Dec 2015 16:20:55 GMT</pubDate>
         </item>
