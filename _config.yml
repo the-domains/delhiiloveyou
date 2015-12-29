@@ -1,0 +1,29 @@
+name: Delhiiloveyou
+favicon: null
+layout_spectrum: 0.8809034072328359
+typography_spectrum: 0.5151125760748982
+title: 'Delhi, I Love You'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7812288987915963
+  lightness: 0.36722137220203876
+  saturation: 0.3926686435006559
+  rhythmicContrast: 0.07658969354815781
+purpose: []
